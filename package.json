@@ -24,9 +24,9 @@
     "logout redirect"
   ],
   "dependencies": {
-    "JQuery": ">1.7",
-    "JQuery UI": ">1.9",
-    "store.js": "git://github.com/marcuswestin/store.js.git"
+    "jquery": ">1.7",
+    "jquery-ui": ">1.9",
+    "store": "^2.0.12"
   },
   "license": "CC-BY-SA-3.0",
   "bugs": {
